@@ -1,14 +1,14 @@
 # SummerGameJam
 
-Development Team:
-[Kevin Hammermeister](https://github.com/khammerm) 
-[Kyle Thompson](enter git profile here)
-[Daniel Skylar](enter git profile here)
+Development Team:\n
+[Kevin Hammermeister](https://github.com/khammerm)\n
+[Kyle Thompson](https://github.com/kylethompson48)\n
+[Daniel Skylar](enter git profile here)\n
 
-Concept:
-A horror game created as a way to practice game development concepts and programming fundamentals.
+Concept:\n
+A horror game created as a way to practice game development concepts and programming fundamentals.\n
 
-Credit/Resources Used:
+Credit/Resources Used:\n
 
 
 
